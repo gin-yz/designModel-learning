@@ -1,12 +1,13 @@
-package com.cjs.designModelLearn.duckModel;
+package com.cjs.designModelLearn.DuckModelTest;
 
 import com.cjs.designModelLearn.duckModel.BehaviorDetailClass.FlyWithWings;
 import com.cjs.designModelLearn.duckModel.BehaviorDetailClass.MuteQuack;
+import com.cjs.designModelLearn.duckModel.Duck;
+import com.cjs.designModelLearn.duckModel.ModelDuck;
 
-import java.lang.reflect.InvocationTargetException;
 
 public class Main {
-    public static void main(String[] args) throws InvocationTargetException, NoSuchMethodException, InstantiationException, IllegalAccessException {
+    public static void main(String[] args) {
         Duck duck = new ModelDuck();
         duck.performFly();
         duck.performQuack();
@@ -15,5 +16,6 @@ public class Main {
         duck.setQuackBehavior(new MuteQuack());
         duck.performFly();
         duck.performQuack();
+
     }
 }
