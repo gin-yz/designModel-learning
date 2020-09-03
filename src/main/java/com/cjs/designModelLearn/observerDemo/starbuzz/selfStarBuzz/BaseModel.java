@@ -1,4 +1,4 @@
-package com.cjs.designModelLearn.selfStarBuzz;
+package com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz;
 
 public abstract class BaseModel {
 

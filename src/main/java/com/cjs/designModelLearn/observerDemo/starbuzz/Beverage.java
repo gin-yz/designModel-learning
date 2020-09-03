@@ -1,4 +1,4 @@
-package com.cjs.designModelLearn.starbuzz;
+package com.cjs.designModelLearn.observerDemo.starbuzz;
 
 public abstract class Beverage {
 	protected String description = "Unknown Beverage";

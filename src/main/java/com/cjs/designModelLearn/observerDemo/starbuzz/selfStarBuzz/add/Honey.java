@@ -1,7 +1,7 @@
-package com.cjs.designModelLearn.selfStarBuzz.add;
+package com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.add;
 
-import com.cjs.designModelLearn.selfStarBuzz.BaseDecorator;
-import com.cjs.designModelLearn.selfStarBuzz.BaseModel;
+import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.BaseDecorator;
+import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.BaseModel;
 
 public class Honey extends BaseDecorator {
 

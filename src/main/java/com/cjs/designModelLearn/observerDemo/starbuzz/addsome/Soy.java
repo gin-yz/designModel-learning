@@ -1,7 +1,7 @@
-package com.cjs.designModelLearn.starbuzz.addsome;
+package com.cjs.designModelLearn.observerDemo.starbuzz.addsome;
 
-import com.cjs.designModelLearn.starbuzz.Beverage;
-import com.cjs.designModelLearn.starbuzz.CondimentDecorator;
+import com.cjs.designModelLearn.observerDemo.starbuzz.Beverage;
+import com.cjs.designModelLearn.observerDemo.starbuzz.CondimentDecorator;
 
 public class Soy extends CondimentDecorator {
 	Beverage beverage;

@@ -1,4 +1,4 @@
-package com.cjs.designModelLearn.selfStarBuzz;
+package com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz;
 
 public abstract class BaseDecorator extends BaseModel {
     protected double addCost;

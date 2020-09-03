@@ -1,6 +1,6 @@
-package com.cjs.designModelLearn.selfStarBuzz.drink;
+package com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.drink;
 
-import com.cjs.designModelLearn.selfStarBuzz.BaseModel;
+import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.BaseModel;
 
 public class Milk extends BaseModel {
 

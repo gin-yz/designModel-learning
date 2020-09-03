@@ -1,6 +1,6 @@
-package com.cjs.designModelLearn.starbuzz.drink;
+package com.cjs.designModelLearn.observerDemo.starbuzz.drink;
 
-import com.cjs.designModelLearn.starbuzz.Beverage;
+import com.cjs.designModelLearn.observerDemo.starbuzz.Beverage;
 
 public class Espresso extends Beverage {
   
