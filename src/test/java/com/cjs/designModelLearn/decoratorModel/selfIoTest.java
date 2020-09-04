@@ -1,6 +1,6 @@
-package com.cjs.designModelLearn.ObserverLearnTest;
+package com.cjs.designModelLearn.decoratorModel;
 
-import com.cjs.designModelLearn.observerDemo.selfIoDemo.LowCaseInputStream;
+import com.cjs.designModelLearn.decoratorModel.selfIoDemo.LowCaseInputStream;
 
 import java.io.IOException;
 import java.io.InputStream;

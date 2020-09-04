@@ -1,12 +1,12 @@
-package com.cjs.designModelLearn.ObserverLearnTest.starbuzzTest;
+package com.cjs.designModelLearn.decoratorModel.starbuzzTest;
 
-import com.cjs.designModelLearn.observerDemo.starbuzz.Beverage;
-import com.cjs.designModelLearn.observerDemo.starbuzz.addsome.Mocha;
-import com.cjs.designModelLearn.observerDemo.starbuzz.addsome.Soy;
-import com.cjs.designModelLearn.observerDemo.starbuzz.addsome.Whip;
-import com.cjs.designModelLearn.observerDemo.starbuzz.drink.DarkRoast;
-import com.cjs.designModelLearn.observerDemo.starbuzz.drink.Espresso;
-import com.cjs.designModelLearn.observerDemo.starbuzz.drink.HouseBlend;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.Beverage;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.addsome.Mocha;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.addsome.Soy;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.addsome.Whip;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.drink.DarkRoast;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.drink.Espresso;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.drink.HouseBlend;
 
 public class StarbuzzCoffee {
  

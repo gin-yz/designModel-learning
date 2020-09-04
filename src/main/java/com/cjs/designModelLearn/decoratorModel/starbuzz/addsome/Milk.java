@@ -1,7 +1,7 @@
-package com.cjs.designModelLearn.observerDemo.starbuzz.addsome;
+package com.cjs.designModelLearn.decoratorModel.starbuzz.addsome;
 
-import com.cjs.designModelLearn.observerDemo.starbuzz.Beverage;
-import com.cjs.designModelLearn.observerDemo.starbuzz.CondimentDecorator;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.Beverage;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.CondimentDecorator;
 
 public class Milk extends CondimentDecorator {
 	Beverage beverage;

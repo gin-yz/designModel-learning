@@ -1,10 +1,10 @@
-package com.cjs.designModelLearn.ObserverLearnTest.starbuzzTest;
+package com.cjs.designModelLearn.decoratorModel.starbuzzTest;
 
-import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.BaseDecorator;
-import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.BaseModel;
-import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.add.Honey;
-import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.add.Sugar;
-import com.cjs.designModelLearn.observerDemo.starbuzz.selfStarBuzz.drink.Coffee;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.selfStarBuzz.BaseDecorator;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.selfStarBuzz.BaseModel;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.selfStarBuzz.add.Honey;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.selfStarBuzz.add.Sugar;
+import com.cjs.designModelLearn.decoratorModel.starbuzz.selfStarBuzz.drink.Coffee;
 
 public class selfStarBuzzTest {
     public static void main(String[] args) {

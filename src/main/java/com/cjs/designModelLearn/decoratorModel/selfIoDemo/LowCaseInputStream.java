@@ -1,9 +1,8 @@
-package com.cjs.designModelLearn.observerDemo.selfIoDemo;
+package com.cjs.designModelLearn.decoratorModel.selfIoDemo;
 
 import java.io.FilterInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.Arrays;
 
 public class LowCaseInputStream extends FilterInputStream {
     public LowCaseInputStream(InputStream in) {
