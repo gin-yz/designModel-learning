@@ -1,3 +1,7 @@
+/*
+* Observer
+* */
+
 package com.cjs.designModelLearn.observerDemo;
 
 import java.util.ArrayList;

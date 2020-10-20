@@ -1,4 +1,4 @@
-package com.cjs.singleModel;
+package com.cjs.designModelLearn.singleModel;
 
 import com.cjs.designModelLearn.singleModel.singlrClassic.CoclateBoiler;
 

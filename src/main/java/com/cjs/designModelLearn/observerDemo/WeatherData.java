@@ -1,3 +1,7 @@
+/*
+* subject
+* */
+
 package com.cjs.designModelLearn.observerDemo;
 
 import java.util.Observable;
